@@ -90,3 +90,7 @@ GitHub Retriever is shared to support the audit, compliance, and technology comm
 Please do not sell this tool, repackage it as a commercial product, or represent it as your own commercial offering without permission from the author.
 
 Organizations and individuals may use the tool internally, but the intent of this project is community benefit, learning, and practical audit support.
+
+##Author
+
+Created by Alfredo Tapia
