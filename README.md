@@ -1,6 +1,6 @@
 # GitHub Retriever
 
-**GitHub Retriever** is a lightweight desktop tool that helps auditors, reviewers, and technical teams retrieve, compare, and document scripts from GitHub repositories.
+**GitHub Retriever** is a lightweight desktop tool that helps auditors and technical teams retrieve, compare, and document scripts from GitHub repositories.
 
 It was built to make source-code evidence collection easier, cleaner, and more repeatable.
 
@@ -24,7 +24,7 @@ It was built to make source-code evidence collection easier, cleaner, and more r
 
 ## Why this exists
 
-Auditors often need to obtain and compare scripts as part of SOX control testing, or other control testing procedures. Manually retrieving code, documenting metadata, and comparing changes can be repetitive and error-prone.
+Auditors often need to obtain and compare scripts as part of SOX control testing or other control testing procedures. Manually retrieving code, documenting metadata, and comparing changes can be repetitive and error-prone.
 
 GitHub Retriever helps make that process more consistent and transparent.
 
